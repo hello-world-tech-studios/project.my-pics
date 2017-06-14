@@ -1,0 +1,1 @@
+Goal: Create a photo gallery. The bottom half of the screen should be a grid of pictures. When you click on a picture, it should appear in the top frame. Advanced content, make it slideshow adding play pause features.
