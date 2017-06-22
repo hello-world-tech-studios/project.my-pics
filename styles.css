@@ -6,7 +6,9 @@
   width: 13vw;
   position: relative;
   left: 41%;
+  margin-top: 15vh;
   margin: 0.5%;
+  white-space: nowrap;
 }
 
 #boxHold {
@@ -22,5 +24,15 @@ h1 {
 
 #pictureDisplay {
   margin-left: 38%; 
-  bottom: 1vh;
+  bottom: 110vh;
+
+}
+
+img{
+  background-position: center;
+  background-size: contain;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
 }
