@@ -6,6 +6,7 @@
   width: 13vw;
   position: relative;
   left: 41%;
+  top: 20vh; /*Change this so that is only affects .pictureBoxes*/
   margin-top: 15vh;
   margin: 0.5%;
   white-space: nowrap;
@@ -23,9 +24,10 @@ h1 {
 }
 
 #pictureDisplay {
-  margin-left: 38%; 
-  bottom: 110vh;
-
+  margin-left: 14%; 
+  bottom: 118vh;
+  height: 42vh;
+  width: 40vw;
 }
 
 img{
@@ -36,4 +38,3 @@ img{
   width: 100%;
   background-repeat: no-repeat;
 }
-
