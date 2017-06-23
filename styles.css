@@ -8,7 +8,7 @@
   left: 41%;
  /*Change this so that is only affects .pictureBoxes*/
   margin-top: 15vh;
-  margin: 0.5%;
+  margin: auto;
   white-space: nowrap;
 }
 
@@ -28,8 +28,8 @@ h1 {
 }
 
 #pictureDisplay {
-  margin-left: 14%; 
-  bottom: 118vh;
+  margin-left: 14%;
+  bottom: 112vh;
   height: 42vh;
   width: 40vw;
 }
